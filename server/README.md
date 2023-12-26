@@ -25,21 +25,13 @@ O ChatGPT Clone é uma implementação simplificada e personalizável de um mode
 - Node.js
 - Dependências do projeto (verifique o arquivo `package.json`)
 
-## Instalação
+## Instalação server - Backend
 
 1. Clone o repositório: `git clone https://github.com/NatanaeLuiz/chatgpt-clone.git`
-
-### Server - Backend
 2. Entre no diretorio do servidor com o comando: cd server
 3. Instale as dependências: `npm install`
 4. Configure as variáveis de ambiente no arquivo `.env`
 5. Execute o aplicativo: `npm start`
-
-### Client - Frontend
-6. Entre no diretorio do servidor com o comando: cd server
-7. Instale as dependências: `npm install`
-8. Configure as variáveis de ambiente no arquivo `.env`
-9. Execute o aplicativo: `npm start`
 
 ## Configuração do .env
 
@@ -47,3 +39,5 @@ Certifique-se de configurar corretamente as variáveis de ambiente no arquivo `.
 
 ```env
 OPENAI_API_KEY=SuaChaveDeAPIOpenAI
+PORT=5555
+
