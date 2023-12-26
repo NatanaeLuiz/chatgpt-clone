@@ -16,7 +16,7 @@
 ## Instalação server - Backend
 
 1. Clone o repositório: `git clone https://github.com/NatanaeLuiz/chatgpt-clone.git`
-2. Entre no diretorio do servidor com o comando: cd server
+2. Entre no diretorio do servidor com o comando: `cd server`
 3. Instale as dependências: `npm install`
 4. Configure as variáveis de ambiente no arquivo `.env`
 5. Execute o aplicativo: `npm start`
