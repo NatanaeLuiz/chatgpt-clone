@@ -1,17 +1,5 @@
 # ChatGPT Clone
 
-Este é um projeto de clone do ChatGPT, desenvolvido em JavaScript usando Node.js e algumas tecnologias adicionais. 
-
-## Descrição
-
-O ChatGPT Clone é uma implementação simplificada e personalizável de um modelo de linguagem baseado no GPT-3.5 para criar assistentes de chat. Este projeto foi inspirado pelo modelo da OpenAI, mas não tem conexão direta com eles.
-
-## Funcionalidades Principais
-
-- **Conversação Interativa:** Interaja com o modelo em uma conversa por meio de mensagens de entrada.
-- **Personalização:** Adapte o comportamento do modelo de acordo com suas necessidades específicas.
-- **API Simples:** Utilize uma API amigável para integrar o modelo em seu próprio aplicativo ou serviço.
-
 ## Tecnologias Utilizadas
 
 - **Node.js:** Ambiente de execução para JavaScript no servidor.
